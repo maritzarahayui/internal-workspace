@@ -1,6 +1,6 @@
 <template>
    <div class="flex flex-col items-center justify-center min-h-screen">
-    <img alt="Vue logo" src="../assets/logo.png" class="mb-4">
+    <img alt="Vue logo" src="/assets/logo.png" class="mb-4">
     <auth />
   </div>
 </template>
